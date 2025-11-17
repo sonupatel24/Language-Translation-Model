@@ -43,10 +43,3 @@ This document describes the translation model used in this project. It provides 
 - Log translation requests and confidence scores; collect user feedback for continual improvement.
 - Version models and retain training/validation metrics for reproducibility.
 
-----
-
-If you'd like, I can:
-- Insert a short pointer summary into `README.md` beneath a `Model` header, or
-- Add this same content as a docstring in `app.py` for in-editor visibility.
-
-Tell me which option you prefer and I'll apply it.
